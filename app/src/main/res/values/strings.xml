@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FloatTask</string>
+    <string name="accessibility">自定义悬浮球</string>
+    <string name="float_switch">悬浮球开关</string>
+    <string name="navigation_drawer_open">开</string>
+    <string name="navigation_drawer_close">关</string>
+</resources>

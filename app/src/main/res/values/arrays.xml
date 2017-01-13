@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="singleclick">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_BACK</item>
+
+    </string-array>
+
+    <string-array name="doubleclick">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_HOME</item>
+    </string-array>
+
+    <string-array name="longpress">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_MOVE</item>
+    </string-array>
+
+    <string-array name="flingleft">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_BACK</item>
+        <item>FUNCTION_RECENTS</item>
+        <item>FUNCTION_NOTIFICATIONS</item>
+        <item>FUNCTION_LOCK_SCREEN</item>
+    </string-array>
+
+    <string-array name="flingright">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_BACK</item>
+        <item>FUNCTION_RECENTS</item>
+        <item>FUNCTION_NOTIFICATIONS</item>
+        <item>FUNCTION_LOCK_SCREEN</item>
+    </string-array>
+
+    <string-array name="flingup">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_BACK</item>
+        <item>FUNCTION_RECENTS</item>
+        <item>FUNCTION_NOTIFICATIONS</item>
+        <item>FUNCTION_LOCK_SCREEN</item>
+    </string-array>
+
+    <string-array name="flingdown">
+        <item>FUNCTION_NO</item>
+        <item>FUNCTION_BACK</item>
+        <item>FUNCTION_RECENTS</item>
+        <item>FUNCTION_NOTIFICATIONS</item>
+        <item>FUNCTION_LOCK_SCREEN</item>
+    </string-array>
+
+    <!--
+    FUNCTION_NO
+    FUNCTION_MOVE
+
+    FUNCTION_HOME
+    FUNCTION_BACK
+    FUNCTION_RECENTS
+    FUNCTION_NOTIFICATIONS
+
+    FUNCTION_LOCK_SCREEN
+    -->
+
+
+</resources>

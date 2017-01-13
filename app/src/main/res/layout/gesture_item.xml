@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:padding="6dp"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/gesture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="单击"
+            />
+        <TextView
+            android:id="@+id/ges_function"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返回上一级"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/icon_info"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="20dip"
+        android:layout_height="20dip"
+        android:src="@mipmap/ic_launcher"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/ivory"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>
